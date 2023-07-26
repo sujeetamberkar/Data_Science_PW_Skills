@@ -1,0 +1,42 @@
+Static 
+	Blogs
+	menu-card
+	online resume 
+
+Dynamic
+	edit photo
+	More user interaction 
+	facebook
+
+	--->usually when you want to make a good website you use HTML, css to beautify 
+	maybe javascript to add animations
+
+	but in dynmaic we have a server
+	--->The data from server is used
+	--->Data Changes and is more interactive 
+	--->To optimize the search Engine
+	--->Scalibility (How many concurent request we can handel at a time)
+	--->No need to change the data much,
+		Search request is okay 
+			We will work on data
+
+	OTT portal
+		Recommandation
+
+
+
+									Not good for simple uses, Too much headwork
+									More costly 
+									complex implement
+
+
+
+
+Client: Part which is expossed by the user
+client has that logic, by which we can interact with the user
+
+
+
+Server:
+A machine,
+or a a software program that provides service 
